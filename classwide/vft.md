@@ -1,6 +1,8 @@
 ---
 title: Virtual Fuel Tank
 layout: home
+nav_order: 2
+parent: Classwide concerns
 ---
 
 # Virtual Fuel Tank / Stint Energy Limits
