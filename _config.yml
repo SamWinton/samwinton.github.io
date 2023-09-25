@@ -1,8 +1,5 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: GTP Concerns & Issues
+description: A public resource documenting concerns, issues and general transparency around quirks with the LMDh cars on iRacing. 
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+url: https://samwinton.github.io
